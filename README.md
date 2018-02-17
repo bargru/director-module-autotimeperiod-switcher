@@ -1,0 +1,1 @@
+# director-module-autotimeperiod-switcher
